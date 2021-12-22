@@ -4,7 +4,7 @@ import re
 import librosa
 
 
-DATA_PATH = ".\\all_final\\"
+DATA_PATH = ".\\DataSet\\"
 
 FILES = os.listdir(DATA_PATH)
 

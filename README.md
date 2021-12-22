@@ -26,3 +26,6 @@ The sources have been combined into a single dataset used to train the model. Fo
 
 
 The attempt is to classify these heartbeats using a Deep Learning Model with LSTM. The concepts, code and model evaluation are included in the python notebook.
+
+## Note
+Run audio_to_dataframe.py to generate audio_df.h5 used in the notebook.
